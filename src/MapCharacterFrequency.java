@@ -40,10 +40,7 @@ public class MapCharacterFrequency {
             System.out.println("Character: "+ entry.getKey()+" ==> "+entry.getValue()+" times");
         }
 
-
-
     }
-
 
 }
 
