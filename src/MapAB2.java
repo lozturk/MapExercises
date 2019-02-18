@@ -20,7 +20,6 @@ public class MapAB2 {
         return map;
     }
 
-
     public static void main(String[] args) {
 
         Map<String, String> map = new HashMap<>();
@@ -30,7 +29,5 @@ public class MapAB2 {
         map.put("c", "aaa");
         System.out.println(mapAB2(map));
     }
-
-
 
 }
